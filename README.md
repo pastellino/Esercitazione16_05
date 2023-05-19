@@ -1,5 +1,6 @@
-Creare un nuovo file main.c nel workspace
+# Traccia
+Creare un nuovo file in c++
 Implementare un programma che, dati in input 10 numeri positivi, trovi il massimo e lo visualizzi a video
-Aggiungere il nuovo file nell'area di staging
-Sincronizzare l'area di staging con il repository locale (usando un messaggio di commit congruo)
-Sincronizzare il repository remoto con quello locale# Esercitazione16_05
+## Descrizione
+
+`git push https://<username>:<token>@github.com/<username>/<reponame>.git`
